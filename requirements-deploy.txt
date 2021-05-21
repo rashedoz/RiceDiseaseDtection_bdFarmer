@@ -5,4 +5,4 @@ Keras-Preprocessing==1.0.5
 matplotlib==3.0.2
 numpy==1.15.4
 opencv-python==3.4.4.19
-tensorflow==1.12.0
+tensorflow==2.5.0
